@@ -1,5 +1,5 @@
 const app = "I don't do much.";
-<<<<<<< HEAD
+
 const token = '7d7345792391189943a1344aa5e8797a6cc67fd5'
 =======
 const token = 'YOUR_TOKEN_HERE'
